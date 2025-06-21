@@ -6,7 +6,7 @@ module.exports = {
     theme: {
         extend: {},
         fontFamily: {
-            body: ['Michroma', ...defaultTheme.fontFamily.mono]
+            body: ['Instrument Sans', ...defaultTheme.fontFamily.mono]
         }
     },
     plugins: []
