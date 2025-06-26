@@ -669,7 +669,7 @@ video {
 }
 
 @media (min-width: 768px) {
-  .md\:w-3\/5 {
-    width: 60%;
+  .md\:w-2\/5 {
+    width: 40%;
   }
 }
