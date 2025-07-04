@@ -6,14 +6,9 @@ fn main() {
             <main>
                 <h1>"Aryan Beezadhur"</h1>
 
-                <p>"I am a self-taught programmer with experience using a wide range of technologies."</p>
+                <p>"C++, Java and Rust programmer."</p>
 
-                <p>"My programming portfolio can be found on my GitHub below."</p>
-
-                <p>"This website was written in "
-                    <a href="https://www.rust-lang.org" target="_blank" rel="noopener noreferrer">"Rust"</a>
-                    "."
-                </p>
+                <p>"This website was written in Rust."</p>
 
                 <p>
                     <a href="mailto:aryanbeezadhur@gmail.com" target="_blank" rel="noopener noreferrer">"Email"</a>
