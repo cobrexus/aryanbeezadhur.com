@@ -6,7 +6,7 @@ fn main() {
             <main>
                 <h1>"Aryan Beezadhur"</h1>
 
-                <p>"I am a self-taught C++, Java and Rust programmer based in London."</p>
+                <p>"I am a self-taught programmer based in London."</p>
 
                 <p>"My portfolio of programming projects is on my GitHub."</p>
 
